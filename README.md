@@ -1,4 +1,4 @@
-# WASP_2024
+# WASP_2024 take home test
 This repository consists of the materials related to the WASP_2024 take home test for the PhD in software performance engineering role
 
 ## Jupyter notebooks:
