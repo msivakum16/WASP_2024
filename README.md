@@ -22,3 +22,7 @@ This pdf file consists of the report of my analysis and findings and answers to 
 2. benchmark_50.docx
 
 These word documents contains the output of running my sample benchmark for 15 and 50 measurement iterations respectively.
+
+## test folder:
+
+This folder contains the maven project that I created with a sample benchmark fuction for the purpose of Task 2
